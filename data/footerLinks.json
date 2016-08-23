@@ -1,0 +1,27 @@
+[
+    {
+        "address": "/",
+        "title": "首页",
+        "icon": "test1"
+    },
+    {
+        "address": "/manage",
+        "title": "管理",
+        "icon": "test2"
+    },
+    {
+        "address": "/manage_important_adgroups",
+        "title": "重点宝贝",
+        "icon": "test3"
+    },
+    {
+        "address": "/manage_important_keywords",
+        "title": "标星词",
+        "icon": "test4"
+    },
+    {
+        "address": "/more",
+        "title": "更多",
+        "icon": "test5"
+    }
+]
